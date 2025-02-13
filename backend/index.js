@@ -22,10 +22,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 const allowedOrigins = [
-  "https://tour-me-frontend-c126k9y9u-kottagenvh.vercel.app",
-  "https://tour-me-frontend.vercel.app",
-  "https://tour-me-frontend-git-main-kottagenvh.vercel.app/",
-  "https://vercel.com/kottagenvh/tour-me-enterprise/2rqvaykMvRXN2P8M4ZVyhQ9igqts",
+  "https://tour-me-consumer.vercel.app",
   "https://tour-me-enterprise.vercel.app",
   
 ];
