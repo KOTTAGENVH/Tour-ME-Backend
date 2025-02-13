@@ -27,6 +27,7 @@ const allowedOrigins = [
   "https://tour-me-frontend-git-main-kottagenvh.vercel.app/",
   "https://vercel.com/kottagenvh/tour-me-enterprise/2rqvaykMvRXN2P8M4ZVyhQ9igqts",
   "https://tour-me-enterprise.vercel.app",
+  
 ];
 
 app.use(cors({ credentials: true, origin: allowedOrigins }));
