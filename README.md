@@ -1,4 +1,14 @@
-This is a small project done by me(Nowen Kottage) using the MERN stack. The main motive of this project is to give the user a platform where they can find details of Sri - Lanka and also book hotels, destinations and purchase souvenirs. Pls note that this is a DEMO. Note: Images and text were taken from the internet.
+MERN Stack Sri Lanka Travel Demo
+
+This is a small project developed by Nowen Kottage using the MERN stack. The main goal of this project is to provide users with a platform where they can:
+✅ Find details about Sri Lanka
+✅ Book hotels and explore destinations
+✅ Purchase souvenirs
+
+Important Notes:
+This project is a DEMO.
+Images and text were sourced from the internet.
+This is a hobby project created in 2023 and is not actively maintained.
 
 #Setting up the project
 ```
