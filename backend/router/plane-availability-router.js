@@ -12,8 +12,8 @@ const getPlaneAvailability = async (req, res) => {
                 locale: 'en_US'
               },
               headers: {
-                'X-RapidAPI-Key': 'de05e9a74fmshe0f1002962c0bdbp19b5f5jsnec1debc25d8d',
-                'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com'
+                'X-RapidAPI-Key': process.env.RAPID_API_KEY,
+                'X-RapidAPI-Host': process.env.RAPID_API_HOST,
               }
         });
         res.send(response.data);
