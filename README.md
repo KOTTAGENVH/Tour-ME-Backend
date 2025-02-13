@@ -5,10 +5,12 @@ This is a small project developed by Nowen Kottage using the MERN stack. The mai
 ✅ Book hotels and explore destinations
 ✅ Purchase souvenirs
 
-Important Notes:
-This project is a DEMO.
-Images and text were sourced from the internet.
-This is a hobby project created in 2023 and is not actively maintained.
+#Important Notes:
+>This project is a DEMO.
+>>
+>Images and text were sourced from the internet.
+>>
+>This is a hobby project created in 2023 and is not actively maintained.
 
 #Setting up the project
 ```
